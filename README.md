@@ -6,9 +6,9 @@
 
 ### To run program:
 
-source venv/bin/activate
-cd project
-python main.py
+- source venv/bin/activate
+- cd project
+- python main.py
 
 
 ### to run unittest
