@@ -6,6 +6,8 @@
 
 ### To run program:
 
+source venv/bin/activate
+cd project
 python main.py
 
 
