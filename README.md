@@ -1,7 +1,7 @@
 * Instructions:
 
-1 Install virtualenv
-2 run pip install -r requirements.txt
+- Install virtualenv
+- run pip install -r requirements.txt
 
 
 * To run program:
